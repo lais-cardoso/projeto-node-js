@@ -1,0 +1,24 @@
+{
+  "name": "projetonodejs",
+  "version": "1.0.0",
+  "description": "Construção de um sistema de cadastro de alunos e notas e um Login para a prática do ambiente do NodeJs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lais-cardoso/ProjetoNodeJs.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lais-cardoso/ProjetoNodeJs/issues"
+  },
+  "homepage": "https://github.com/lais-cardoso/ProjetoNodeJs#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "readline-sync": "^1.4.10"
+  }
+}
